@@ -4,6 +4,4 @@ One script is responsible for tracking the price behaviour and generating approp
 
 All basic money management principles have been followed, and the whole system in general is capable of running 24 x 7 without any issues
 
-Technologies Used : 
-  Python [ for building the whole back-end skeleton of the bot ]
-  Binance API [ for fetching price details and executing orders ]
+Technologies Used : Python [ for building the whole back-end skeleton of the bot ] & Binance API [ for fetching price details and executing orders ]
